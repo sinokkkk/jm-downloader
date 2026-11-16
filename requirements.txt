@@ -1,0 +1,9 @@
+# 核心依赖
+jmcomic @ git+https://github.com/hect0x7/JMComic-Crawler-Python
+pyyaml
+
+# 导出 PDF / 压缩包
+img2pdf
+pikepdf
+pyzipper
+py7zr

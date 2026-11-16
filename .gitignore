@@ -1,0 +1,11 @@
+# 运行时产物
+.runtime/
+__pycache__/
+*.pyc
+.venv/
+
+# 用户配置（含账号密码）
+config.json
+
+# 下载内容
+downloads/
